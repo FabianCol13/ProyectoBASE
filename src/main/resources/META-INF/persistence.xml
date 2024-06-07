@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Configuración de JPA para una unidad de persistencia -->
+<persistence 
+    version="3.0" 
+    xmlns="https://jakarta.ee/xml/ns/persistence" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:schemaLocation="https://jakarta.ee/xml/ns/persistence https://jakarta.ee/xml/ns/persistence/persistence_3_0.xsd">
+    
+    <!-- Definición de la Unidad de Persistencia -->
+    <persistence-unit name="ColegioWeb" transaction-type="RESOURCE_LOCAL">
+        
+        <!-- Proveedor de JPA: Hibernate -->
+        <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+        
+        <!-- Clases Entidad que forman parte de esta Unidad de Persistencia -->
+        <class>com.sena.domain.Domicilio</class>
+        <class>com.sena.domain.Contacto</class>
+        <class>com.sena.domain.Curso</class>
+        <class>com.sena.domain.Alumno</class>
+        <class>com.sena.domain.Asignacion</class>
+
+        <!-- Propiedades de configuración para la conexión y Hibernate -->
+        <properties>
+            <!-- URL de conexión a la base de datos MySQL -->
+            <property name="jakarta.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/colegio_demo"/>
+            
+            <!-- Usuario de la base de datos -->
+            <property name="jakarta.persistence.jdbc.user" value="root"/>
+            
+            <!-- Contraseña del usuario de la base de datos (vacía en este caso) -->
+            <property name="jakarta.persistence.jdbc.password" value=""/>
+            
+            <!-- Driver JDBC para MySQL -->
+            <property name="jakarta.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
+            
+            <!-- Mostrar las sentencias SQL generadas por Hibernate en la consola -->
+            <property name="hibernate.show_sql" value="true"/>
+            
+            <!-- Dialecto de Hibernate para MySQL, que ajusta la generación de SQL para esta base de datos específica -->
+            <property name="hibernate.dialect" value="org.hibernate.dialect.MySQLDialect"/>
+        </properties>
+    </persistence-unit>
+</persistence>

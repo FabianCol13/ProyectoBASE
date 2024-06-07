@@ -1,0 +1,539 @@
+2024-06-07 00:26:10 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 00:26:10 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 00:26:10 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 00:26:10 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 00:26:10 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 00:26:10 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 00:26:10 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 00:26:10 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 00:26:10 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 00:26:10 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+2024-06-07 00:26:10 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 00:26:11 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 00:28:52 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 00:28:52 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 00:28:52 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 00:28:52 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 00:28:52 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 00:28:52 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 00:28:52 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 00:28:52 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 00:28:52 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 00:28:52 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+2024-06-07 00:28:52 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 00:28:52 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 00:33:40 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 00:33:40 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 00:33:40 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 00:33:41 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 00:33:41 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 00:33:41 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 00:33:41 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 00:33:41 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 00:33:41 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 00:33:41 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+2024-06-07 00:33:41 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 00:33:42 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-06-07 00:33:42 [main] DEBUG org.hibernate.SQL - select a1_0.id_alumno,a1_0.apellido_alumno,a1_0.contacto_id_contacto,a1_0.id_domicilio,a1_0.nombre_alumno from Alumno a1_0
+2024-06-07 00:33:42 [main] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper - SQL Error: 1054, SQLState: 42S22
+2024-06-07 00:33:42 [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper - Unknown column 'a1_0.contacto_id_contacto' in 'field list'
+2024-06-07 00:36:00 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 00:36:00 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 00:36:00 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 00:36:00 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 00:36:00 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 00:36:00 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 00:36:00 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 00:36:00 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 00:36:00 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 00:36:00 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+2024-06-07 00:36:00 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 00:36:01 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-06-07 00:37:26 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 00:37:26 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 00:37:26 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 00:37:27 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 00:37:27 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 00:37:27 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 00:37:27 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 00:37:27 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 00:37:27 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 00:37:27 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+2024-06-07 00:37:27 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 00:37:28 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-06-07 00:37:28 [main] DEBUG org.hibernate.SQL - select a1_0.id_alumno,a1_0.apellido_alumno,a1_0.contacto_id_contacto,a1_0.id_domicilio,a1_0.nombre_alumno from Alumno a1_0
+2024-06-07 00:37:28 [main] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper - SQL Error: 1054, SQLState: 42S22
+2024-06-07 00:37:28 [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper - Unknown column 'a1_0.contacto_id_contacto' in 'field list'
+2024-06-07 00:37:57 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 00:37:57 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 00:37:57 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 00:37:58 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 00:37:58 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 00:37:58 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 00:37:58 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 00:37:58 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 00:37:58 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 00:37:58 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+2024-06-07 00:37:58 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 00:37:59 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-06-07 00:37:59 [main] DEBUG org.hibernate.SQL - select d1_0.id_domicilio,d1_0.calle_domicilio,d1_0.num_domicilio,d1_0.pais_domicilio from Domicilio d1_0
+2024-06-07 00:37:59 [main] DEBUG org.hibernate.SQL - select c1_0.id_contacto,c1_0.email_contacto,c1_0.tel_contacto from Contacto c1_0
+2024-06-07 00:37:59 [main] DEBUG org.hibernate.SQL - select c1_0.id_curso,c1_0.nombre_curso,c1_0.precio_curso from Curso c1_0
+2024-06-07 00:37:59 [main] DEBUG org.hibernate.SQL - select a1_0.id_asignacion,a1_0.alumno_id_alumno,a1_0.curso_id_curso,a1_0.modalidad_asignacion from Asignacion a1_0
+2024-06-07 00:37:59 [main] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper - SQL Error: 1054, SQLState: 42S22
+2024-06-07 00:37:59 [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper - Unknown column 'a1_0.alumno_id_alumno' in 'field list'
+2024-06-07 00:39:24 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 00:39:24 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 00:39:24 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 00:39:24 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 00:39:24 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 00:39:24 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 00:39:24 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 00:39:24 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 00:39:24 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 00:39:24 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+2024-06-07 00:39:24 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 00:39:25 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-06-07 00:39:26 [main] DEBUG org.hibernate.SQL - select a1_0.id_alumno,a1_0.apellido_alumno,a1_0.contacto_id_contacto,a1_0.id_domicilio,a1_0.nombre_alumno from Alumno a1_0
+2024-06-07 00:39:26 [main] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper - SQL Error: 1054, SQLState: 42S22
+2024-06-07 00:39:26 [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper - Unknown column 'a1_0.contacto_id_contacto' in 'field list'
+2024-06-07 00:53:30 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 00:53:30 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 00:53:30 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 00:53:30 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 00:53:30 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 00:53:30 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 00:53:30 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 00:53:30 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 00:53:30 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 00:53:30 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+2024-06-07 00:53:30 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 00:53:31 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-06-07 00:53:31 [main] DEBUG org.hibernate.SQL - select a1_0.id_alumno,a1_0.apellido_alumno,a1_0.contacto_id_contacto,a1_0.id_domicilio,a1_0.nombre_alumno from Alumno a1_0
+2024-06-07 00:53:31 [main] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper - SQL Error: 1054, SQLState: 42S22
+2024-06-07 00:53:31 [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper - Unknown column 'a1_0.contacto_id_contacto' in 'field list'
+2024-06-07 07:34:45 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 07:34:45 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 07:34:45 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 07:34:46 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 07:34:46 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 07:34:46 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 07:34:46 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 07:34:46 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 07:34:46 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 07:34:46 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+2024-06-07 07:34:46 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 07:34:48 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-06-07 07:34:48 [main] DEBUG org.hibernate.SQL - select a1_0.id_alumno,a1_0.apellido_alumno,a1_0.id_contacto,a1_0.id_domicilio,a1_0.nombre_alumno from Alumno a1_0
+2024-06-07 07:34:48 [main] DEBUG org.hibernate.SQL - select c1_0.id_contacto,c1_0.email_contacto,c1_0.tel_contacto from Contacto c1_0 where c1_0.id_contacto=?
+2024-06-07 07:34:48 [main] DEBUG org.hibernate.SQL - select d1_0.id_domicilio,d1_0.calle_domicilio,d1_0.num_domicilio,d1_0.pais_domicilio from Domicilio d1_0 where d1_0.id_domicilio=?
+2024-06-07 07:34:48 [main] DEBUG org.hibernate.SQL - select c1_0.id_contacto,c1_0.email_contacto,c1_0.tel_contacto from Contacto c1_0 where c1_0.id_contacto=?
+2024-06-07 07:34:48 [main] DEBUG org.hibernate.SQL - select d1_0.id_domicilio,d1_0.calle_domicilio,d1_0.num_domicilio,d1_0.pais_domicilio from Domicilio d1_0 where d1_0.id_domicilio=?
+2024-06-07 07:34:48 [main] DEBUG org.hibernate.SQL - select c1_0.id_contacto,c1_0.email_contacto,c1_0.tel_contacto from Contacto c1_0 where c1_0.id_contacto=?
+2024-06-07 07:34:48 [main] DEBUG org.hibernate.SQL - select d1_0.id_domicilio,d1_0.calle_domicilio,d1_0.num_domicilio,d1_0.pais_domicilio from Domicilio d1_0 where d1_0.id_domicilio=?
+2024-06-07 07:35:29 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 07:35:30 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 07:35:30 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 07:35:30 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 07:35:30 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 07:35:30 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 07:35:30 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 07:35:30 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 07:35:30 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 07:35:30 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+2024-06-07 07:35:30 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 07:35:32 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-06-07 07:35:32 [main] DEBUG org.hibernate.SQL - select d1_0.id_domicilio,d1_0.calle_domicilio,d1_0.num_domicilio,d1_0.pais_domicilio from Domicilio d1_0
+2024-06-07 07:36:04 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 07:36:05 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 07:36:05 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 07:36:05 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 07:36:05 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 07:36:05 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 07:36:05 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 07:36:05 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 07:36:05 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 07:36:05 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+2024-06-07 07:36:05 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 07:36:07 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-06-07 07:36:07 [main] DEBUG org.hibernate.SQL - select c1_0.id_contacto,c1_0.email_contacto,c1_0.tel_contacto from Contacto c1_0
+2024-06-07 07:36:37 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 07:36:37 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 07:36:37 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 07:36:38 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 07:36:38 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 07:36:38 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 07:36:38 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 07:36:38 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 07:36:38 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 07:36:38 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+2024-06-07 07:36:38 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 07:36:40 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-06-07 07:36:40 [main] DEBUG org.hibernate.SQL - select c1_0.id_curso,c1_0.nombre_curso,c1_0.precio_curso from Curso c1_0
+2024-06-07 07:37:24 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 07:37:24 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 07:37:24 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 07:37:24 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 07:37:24 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 07:37:24 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 07:37:24 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 07:37:24 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 07:37:24 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 07:37:24 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+2024-06-07 07:37:24 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 07:37:26 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-06-07 07:37:26 [main] DEBUG org.hibernate.SQL - select a1_0.id_alumno,a1_0.apellido_alumno,a1_0.id_contacto,a1_0.id_domicilio,a1_0.nombre_alumno from Alumno a1_0
+2024-06-07 07:37:27 [main] DEBUG org.hibernate.SQL - select c1_0.id_contacto,c1_0.email_contacto,c1_0.tel_contacto from Contacto c1_0 where c1_0.id_contacto=?
+2024-06-07 07:37:27 [main] DEBUG org.hibernate.SQL - select d1_0.id_domicilio,d1_0.calle_domicilio,d1_0.num_domicilio,d1_0.pais_domicilio from Domicilio d1_0 where d1_0.id_domicilio=?
+2024-06-07 07:37:27 [main] DEBUG org.hibernate.SQL - select c1_0.id_contacto,c1_0.email_contacto,c1_0.tel_contacto from Contacto c1_0 where c1_0.id_contacto=?
+2024-06-07 07:37:27 [main] DEBUG org.hibernate.SQL - select d1_0.id_domicilio,d1_0.calle_domicilio,d1_0.num_domicilio,d1_0.pais_domicilio from Domicilio d1_0 where d1_0.id_domicilio=?
+2024-06-07 07:37:27 [main] DEBUG org.hibernate.SQL - select c1_0.id_contacto,c1_0.email_contacto,c1_0.tel_contacto from Contacto c1_0 where c1_0.id_contacto=?
+2024-06-07 07:37:27 [main] DEBUG org.hibernate.SQL - select d1_0.id_domicilio,d1_0.calle_domicilio,d1_0.num_domicilio,d1_0.pais_domicilio from Domicilio d1_0 where d1_0.id_domicilio=?
+2024-06-07 07:38:36 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 07:38:36 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 07:38:36 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 07:38:37 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 07:38:37 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 07:38:37 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 07:38:37 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 07:38:37 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 07:38:37 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 07:38:37 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+2024-06-07 07:38:37 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 07:38:38 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-06-07 07:38:38 [main] DEBUG org.hibernate.SQL - select a1_0.id_alumno,a1_0.apellido_alumno,a1_0.contacto_id_contacto,a1_0.domicilio_id_domicilio,a1_0.nombre_alumno from Alumno a1_0
+2024-06-07 07:38:38 [main] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper - SQL Error: 1054, SQLState: 42S22
+2024-06-07 07:38:38 [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper - Unknown column 'a1_0.contacto_id_contacto' in 'field list'
+2024-06-07 07:39:10 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 07:39:10 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 07:39:10 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 07:39:11 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 07:39:11 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 07:39:11 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 07:39:11 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 07:39:11 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 07:39:11 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 07:39:11 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+2024-06-07 07:39:11 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 07:39:12 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-06-07 07:39:12 [main] DEBUG org.hibernate.SQL - select a1_0.id_alumno,a1_0.apellido_alumno,a1_0.contacto_id_contacto,a1_0.domicilio_id_domicilio,a1_0.nombre_alumno from Alumno a1_0
+2024-06-07 07:39:12 [main] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper - SQL Error: 1054, SQLState: 42S22
+2024-06-07 07:39:12 [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper - Unknown column 'a1_0.contacto_id_contacto' in 'field list'
+2024-06-07 07:39:58 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 07:39:58 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 07:39:58 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 07:39:58 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 07:39:58 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 07:39:58 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 07:39:58 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 07:39:58 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 07:39:58 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 07:39:58 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+2024-06-07 07:39:58 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 07:39:59 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-06-07 07:40:00 [main] DEBUG org.hibernate.SQL - select a1_0.id_alumno,a1_0.apellido_alumno,a1_0.contacto_id_contacto,a1_0.id_domicilio,a1_0.nombre_alumno from Alumno a1_0
+2024-06-07 07:40:00 [main] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper - SQL Error: 1054, SQLState: 42S22
+2024-06-07 07:40:00 [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper - Unknown column 'a1_0.contacto_id_contacto' in 'field list'
+2024-06-07 07:40:20 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 07:40:20 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 07:40:20 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 07:40:20 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 07:40:20 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 07:40:20 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 07:40:20 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 07:40:20 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 07:40:20 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 07:40:20 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+2024-06-07 07:40:20 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 07:40:21 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-06-07 07:40:22 [main] DEBUG org.hibernate.SQL - select a1_0.id_alumno,a1_0.apellido_alumno,a1_0.id_contacto,a1_0.id_domicilio,a1_0.nombre_alumno from Alumno a1_0
+2024-06-07 07:40:22 [main] DEBUG org.hibernate.SQL - select c1_0.id_contacto,c1_0.email_contacto,c1_0.tel_contacto from Contacto c1_0 where c1_0.id_contacto=?
+2024-06-07 07:40:22 [main] DEBUG org.hibernate.SQL - select d1_0.id_domicilio,d1_0.calle_domicilio,d1_0.num_domicilio,d1_0.pais_domicilio from Domicilio d1_0 where d1_0.id_domicilio=?
+2024-06-07 07:40:22 [main] DEBUG org.hibernate.SQL - select c1_0.id_contacto,c1_0.email_contacto,c1_0.tel_contacto from Contacto c1_0 where c1_0.id_contacto=?
+2024-06-07 07:40:22 [main] DEBUG org.hibernate.SQL - select d1_0.id_domicilio,d1_0.calle_domicilio,d1_0.num_domicilio,d1_0.pais_domicilio from Domicilio d1_0 where d1_0.id_domicilio=?
+2024-06-07 07:40:22 [main] DEBUG org.hibernate.SQL - select c1_0.id_contacto,c1_0.email_contacto,c1_0.tel_contacto from Contacto c1_0 where c1_0.id_contacto=?
+2024-06-07 07:40:22 [main] DEBUG org.hibernate.SQL - select d1_0.id_domicilio,d1_0.calle_domicilio,d1_0.num_domicilio,d1_0.pais_domicilio from Domicilio d1_0 where d1_0.id_domicilio=?
+2024-06-07 07:40:52 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 07:40:52 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 07:40:52 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 07:40:53 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 07:40:53 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 07:40:53 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 07:40:53 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 07:40:53 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 07:40:53 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 07:40:53 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+2024-06-07 07:40:53 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 07:40:54 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-06-07 07:40:54 [main] DEBUG org.hibernate.SQL - select a1_0.id_alumno,a1_0.apellido_alumno,a1_0.id_contacto,a1_0.id_domicilio,a1_0.nombre_alumno from Alumno a1_0
+2024-06-07 07:40:54 [main] DEBUG org.hibernate.SQL - select c1_0.id_contacto,c1_0.email_contacto,c1_0.tel_contacto from Contacto c1_0 where c1_0.id_contacto=?
+2024-06-07 07:40:54 [main] DEBUG org.hibernate.SQL - select d1_0.id_domicilio,d1_0.calle_domicilio,d1_0.num_domicilio,d1_0.pais_domicilio from Domicilio d1_0 where d1_0.id_domicilio=?
+2024-06-07 07:40:54 [main] DEBUG org.hibernate.SQL - select c1_0.id_contacto,c1_0.email_contacto,c1_0.tel_contacto from Contacto c1_0 where c1_0.id_contacto=?
+2024-06-07 07:40:54 [main] DEBUG org.hibernate.SQL - select d1_0.id_domicilio,d1_0.calle_domicilio,d1_0.num_domicilio,d1_0.pais_domicilio from Domicilio d1_0 where d1_0.id_domicilio=?
+2024-06-07 07:40:54 [main] DEBUG org.hibernate.SQL - select c1_0.id_contacto,c1_0.email_contacto,c1_0.tel_contacto from Contacto c1_0 where c1_0.id_contacto=?
+2024-06-07 07:40:54 [main] DEBUG org.hibernate.SQL - select d1_0.id_domicilio,d1_0.calle_domicilio,d1_0.num_domicilio,d1_0.pais_domicilio from Domicilio d1_0 where d1_0.id_domicilio=?
+2024-06-07 07:41:54 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 07:41:54 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 07:41:54 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 07:41:55 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 07:41:55 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 07:41:55 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 07:41:55 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 07:41:55 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 07:41:55 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 07:41:55 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+2024-06-07 07:41:55 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 07:41:56 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-06-07 07:41:56 [main] DEBUG org.hibernate.SQL - select a1_0.id_alumno,a1_0.apellido_alumno,a1_0.id_contacto,a1_0.id_domicilio,a1_0.nombre_alumno from Alumno a1_0
+2024-06-07 07:41:56 [main] DEBUG org.hibernate.SQL - select c1_0.id_contacto,c1_0.email_contacto,c1_0.tel_contacto from Contacto c1_0 where c1_0.id_contacto=?
+2024-06-07 07:41:56 [main] DEBUG org.hibernate.SQL - select d1_0.id_domicilio,d1_0.calle_domicilio,d1_0.num_domicilio,d1_0.pais_domicilio from Domicilio d1_0 where d1_0.id_domicilio=?
+2024-06-07 07:41:56 [main] DEBUG org.hibernate.SQL - select c1_0.id_contacto,c1_0.email_contacto,c1_0.tel_contacto from Contacto c1_0 where c1_0.id_contacto=?
+2024-06-07 07:41:56 [main] DEBUG org.hibernate.SQL - select d1_0.id_domicilio,d1_0.calle_domicilio,d1_0.num_domicilio,d1_0.pais_domicilio from Domicilio d1_0 where d1_0.id_domicilio=?
+2024-06-07 07:41:56 [main] DEBUG org.hibernate.SQL - select c1_0.id_contacto,c1_0.email_contacto,c1_0.tel_contacto from Contacto c1_0 where c1_0.id_contacto=?
+2024-06-07 07:41:56 [main] DEBUG org.hibernate.SQL - select d1_0.id_domicilio,d1_0.calle_domicilio,d1_0.num_domicilio,d1_0.pais_domicilio from Domicilio d1_0 where d1_0.id_domicilio=?
+2024-06-07 07:45:43 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 07:45:43 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 07:45:43 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 07:45:43 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 07:45:43 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 07:45:43 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 07:45:43 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 07:45:43 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 07:45:43 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 07:45:43 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+2024-06-07 07:45:43 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 07:45:44 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-06-07 07:45:44 [main] DEBUG org.hibernate.SQL - select a1_0.id_alumno,a1_0.apellido_alumno,a1_0.id_contacto,a1_0.id_domicilio,a1_0.nombre_alumno from Alumno a1_0
+2024-06-07 07:45:45 [main] DEBUG org.hibernate.SQL - select c1_0.id_contacto,c1_0.email_contacto,c1_0.tel_contacto from Contacto c1_0 where c1_0.id_contacto=?
+2024-06-07 07:45:45 [main] DEBUG org.hibernate.SQL - select d1_0.id_domicilio,d1_0.calle_domicilio,d1_0.num_domicilio,d1_0.pais_domicilio from Domicilio d1_0 where d1_0.id_domicilio=?
+2024-06-07 07:45:45 [main] DEBUG org.hibernate.SQL - select c1_0.id_contacto,c1_0.email_contacto,c1_0.tel_contacto from Contacto c1_0 where c1_0.id_contacto=?
+2024-06-07 07:45:45 [main] DEBUG org.hibernate.SQL - select d1_0.id_domicilio,d1_0.calle_domicilio,d1_0.num_domicilio,d1_0.pais_domicilio from Domicilio d1_0 where d1_0.id_domicilio=?
+2024-06-07 07:45:45 [main] DEBUG org.hibernate.SQL - select c1_0.id_contacto,c1_0.email_contacto,c1_0.tel_contacto from Contacto c1_0 where c1_0.id_contacto=?
+2024-06-07 07:45:45 [main] DEBUG org.hibernate.SQL - select d1_0.id_domicilio,d1_0.calle_domicilio,d1_0.num_domicilio,d1_0.pais_domicilio from Domicilio d1_0 where d1_0.id_domicilio=?
+2024-06-07 07:45:58 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 07:45:58 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 07:45:58 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 07:45:59 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 07:45:59 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 07:45:59 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 07:45:59 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 07:45:59 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 07:45:59 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 07:45:59 [main] WARN  org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator - HHH000342: Could not obtain connection to query metadata
+java.lang.IllegalStateException: Cannot get a connection as the driver manager is not properly initialized
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.getConnection(DriverManagerConnectionProviderImpl.java:258) ~[hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:424) ~[hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcIsolationDelegate.delegateWork(JdbcIsolationDelegate.java:61) ~[hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.getJdbcEnvironmentUsingJdbcMetadata(JdbcEnvironmentInitiator.java:273) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:105) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:66) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.initiateService(StandardServiceRegistryImpl.java:129) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:263) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:238) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:215) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.engine.jdbc.internal.JdbcServicesImpl.configure(JdbcServicesImpl.java:52) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.configureService(StandardServiceRegistryImpl.java:135) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:247) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:215) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.engine.jdbc.connections.internal.BasicConnectionCreator.convertSqlException(BasicConnectionCreator.java:132) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.engine.jdbc.connections.internal.DriverConnectionCreator.makeConnection(DriverConnectionCreator.java:43) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.engine.jdbc.connections.internal.BasicConnectionCreator.createConnection(BasicConnectionCreator.java:61) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections.addConnections(DriverManagerConnectionProviderImpl.java:494) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections.<init>(DriverManagerConnectionProviderImpl.java:367) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections$Builder.build(DriverManagerConnectionProviderImpl.java:545) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.buildPool(DriverManagerConnectionProviderImpl.java:101) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.configure(DriverManagerConnectionProviderImpl.java:81) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.configureService(StandardServiceRegistryImpl.java:135) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:247) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:215) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.buildJdbcConnectionAccess(JdbcEnvironmentInitiator.java:391) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.getJdbcEnvironmentUsingJdbcMetadata(JdbcEnvironmentInitiator.java:259) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:105) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:66) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.initiateService(StandardServiceRegistryImpl.java:129) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:263) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:238) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:215) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.boot.model.relational.Database.<init>(Database.java:45) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.boot.internal.InFlightMetadataCollectorImpl.getDatabase(InFlightMetadataCollectorImpl.java:223) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.boot.internal.InFlightMetadataCollectorImpl.<init>(InFlightMetadataCollectorImpl.java:191) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:169) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.metadata(EntityManagerFactoryBuilderImpl.java:1432) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1503) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at org.hibernate.jpa.HibernatePersistenceProvider.createEntityManagerFactory(HibernatePersistenceProvider.java:55) [hibernate-core-6.3.1.Final.jar:6.3.1.Final]
+	at jakarta.persistence.Persistence.createEntityManagerFactory(Persistence.java:80) [jakarta.persistence-api-3.1.0.jar:3.1.0]
+	at jakarta.persistence.Persistence.createEntityManagerFactory(Persistence.java:55) [jakarta.persistence-api-3.1.0.jar:3.1.0]
+	at com.sena.dao.GenericDAO.<init>(GenericDAO.java:13) [classes/:?]
+	at com.sena.dao.AlumnoDAO.<init>(AlumnoDAO.java:9) [classes/:?]
+	at com.sena.test.TestDAOs.main(TestDAOs.java:15) [classes/:?]
+2024-06-07 07:45:59 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 07:45:59 [main] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper - SQL Error: 0, SQLState: 08S01
+2024-06-07 07:45:59 [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-06-07 07:46:08 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 07:46:08 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 07:46:08 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 07:46:08 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 07:46:08 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 07:46:08 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 07:46:08 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 07:46:08 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 07:46:08 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 07:46:08 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+2024-06-07 07:46:08 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 07:46:09 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-06-07 07:46:09 [main] DEBUG org.hibernate.SQL - select a1_0.id_alumno,a1_0.apellido_alumno,a1_0.id_contacto,a1_0.id_domicilio,a1_0.nombre_alumno from Alumno a1_0
+2024-06-07 07:46:09 [main] DEBUG org.hibernate.SQL - select c1_0.id_contacto,c1_0.email_contacto,c1_0.tel_contacto from Contacto c1_0 where c1_0.id_contacto=?
+2024-06-07 07:46:09 [main] DEBUG org.hibernate.SQL - select d1_0.id_domicilio,d1_0.calle_domicilio,d1_0.num_domicilio,d1_0.pais_domicilio from Domicilio d1_0 where d1_0.id_domicilio=?
+2024-06-07 07:46:09 [main] DEBUG org.hibernate.SQL - select c1_0.id_contacto,c1_0.email_contacto,c1_0.tel_contacto from Contacto c1_0 where c1_0.id_contacto=?
+2024-06-07 07:46:09 [main] DEBUG org.hibernate.SQL - select d1_0.id_domicilio,d1_0.calle_domicilio,d1_0.num_domicilio,d1_0.pais_domicilio from Domicilio d1_0 where d1_0.id_domicilio=?
+2024-06-07 07:46:09 [main] DEBUG org.hibernate.SQL - select c1_0.id_contacto,c1_0.email_contacto,c1_0.tel_contacto from Contacto c1_0 where c1_0.id_contacto=?
+2024-06-07 07:46:09 [main] DEBUG org.hibernate.SQL - select d1_0.id_domicilio,d1_0.calle_domicilio,d1_0.num_domicilio,d1_0.pais_domicilio from Domicilio d1_0 where d1_0.id_domicilio=?
+2024-06-07 07:56:11 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 07:56:11 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 07:56:11 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 07:56:11 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 07:56:11 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 07:56:11 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 07:56:11 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 07:56:11 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 07:56:11 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 07:56:11 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+2024-06-07 07:56:11 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 07:56:12 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-06-07 08:00:26 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 08:00:26 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 08:00:26 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 08:00:26 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 08:00:26 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 08:00:26 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 08:00:26 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 08:00:26 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 08:00:26 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 08:00:26 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+2024-06-07 08:00:26 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 08:00:27 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-06-07 08:00:27 [main] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper - SQL Error: 1054, SQLState: 42S22
+2024-06-07 08:00:27 [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper - Unknown column 'a1_0.alumno_id_alumno' in 'field list'
+2024-06-07 08:02:56 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 08:02:56 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 08:02:56 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 08:02:56 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 08:02:56 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 08:02:56 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 08:02:56 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 08:02:56 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 08:02:56 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 08:02:56 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+2024-06-07 08:02:56 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 08:02:57 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-06-07 14:31:26 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 14:31:26 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 14:31:26 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 14:31:26 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 14:31:26 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 14:31:26 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 14:31:26 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 14:31:26 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 14:31:26 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 14:31:27 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+2024-06-07 14:31:27 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 14:31:28 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-06-07 14:34:17 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 14:34:17 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 14:34:17 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 14:34:17 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 14:34:17 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 14:34:17 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 14:34:17 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 14:34:17 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 14:34:17 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 14:34:18 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+2024-06-07 14:34:18 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 14:34:19 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-06-07 14:56:12 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 14:56:12 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 14:56:12 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 14:56:12 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 14:56:12 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 14:56:12 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 14:56:12 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 14:56:12 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 14:56:12 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 14:56:12 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+2024-06-07 14:56:12 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 14:56:13 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-06-07 14:59:06 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 14:59:06 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 14:59:06 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 14:59:06 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 14:59:06 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 14:59:06 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 14:59:06 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 14:59:06 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 14:59:06 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 14:59:07 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+2024-06-07 14:59:07 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 14:59:08 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-06-07 14:59:08 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 15:03:06 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 15:03:06 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 15:03:06 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 15:03:07 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 15:03:07 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 15:03:07 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 15:03:07 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 15:03:07 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 15:03:07 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 15:03:07 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+2024-06-07 15:03:07 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 15:03:08 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-06-07 15:20:08 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 15:20:09 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 15:20:09 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 15:20:09 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 15:20:09 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 15:20:09 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 15:20:09 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 15:20:09 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 15:20:09 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 15:20:09 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+2024-06-07 15:20:09 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 15:20:10 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-06-07 15:23:09 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 15:23:09 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 15:23:09 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 15:23:09 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 15:23:09 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 15:23:09 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 15:23:09 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 15:23:09 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 15:23:09 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 15:23:09 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+2024-06-07 15:23:09 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 15:23:10 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-06-07 15:30:57 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 15:30:57 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 15:30:57 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 15:30:57 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 15:30:57 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 15:30:57 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 15:30:57 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 15:30:57 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 15:30:57 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 15:30:57 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+2024-06-07 15:30:57 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 15:30:58 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-06-07 15:33:02 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: ColegioWeb]
+2024-06-07 15:33:02 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-06-07 15:33:02 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-06-07 15:33:02 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-06-07 15:33:02 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2024-06-07 15:33:02 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/colegio_demo]
+2024-06-07 15:33:02 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-06-07 15:33:02 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-06-07 15:33:02 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-06-07 15:33:02 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+2024-06-07 15:33:02 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-06-07 15:33:03 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)

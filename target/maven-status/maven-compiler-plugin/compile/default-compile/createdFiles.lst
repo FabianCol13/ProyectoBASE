@@ -1,0 +1,13 @@
+com\sena\dominio\Contacto.class
+com\sena\dominio\Curso.class
+com\sena\dominio\Alumno.class
+com\sena\dominio\Asignacion.class
+com\sena\dao\DomicilioDAO.class
+com\sena\testciclo\Ciclo1_CrearObjetoJPA.class
+com\sena\dao\AlumnoDAO.class
+com\sena\dao\CursoDAO.class
+com\sena\dominio\Domicilio.class
+com\sena\dao\GenericDAO.class
+com\sena\dao\AsignacionDAO.class
+com\sena\test\TestDAOs.class
+com\sena\dao\ContactoDAO.class
